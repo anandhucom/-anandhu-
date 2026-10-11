@@ -1,0 +1,64 @@
+================================================================================
+                               ANANDHU P S
+                 Data Scientist | AI & Machine Learning Engineer
+================================================================================
+Email: anandhups3664@gmail.com
+LinkedIn: https://www.linkedin.com/in/anandhups36
+GitHub: https://github.com/Anandhu114
+Instagram: https://www.instagram.com/___anandhhu?exln=c2VsMW03c2RsaXlu
+
+--------------------------------------------------------------------------------
+PROFESSIONAL SUMMARY
+--------------------------------------------------------------------------------
+Aspiring Data Scientist and AI Engineer with a Bachelor of Engineering in
+Computer Science and Engineering. Passionate about building end-to-end ML
+projects, NLP applications, and translating business problems into data-driven
+solutions. Skilled in developing predictive models, text processing pipelines,
+and generative AI solutions.
+
+--------------------------------------------------------------------------------
+EDUCATION
+--------------------------------------------------------------------------------
+Bachelor of Engineering (B.E.) in Computer Science and Engineering
+
+--------------------------------------------------------------------------------
+TECHNICAL SKILLS
+--------------------------------------------------------------------------------
+* Programming Languages: Python, C, C++, R, SQL
+* Core Domains: Data Science, AI/ML, Deep Learning, Natural Language Processing (NLP)
+* Machine Learning & Neural Frameworks: Scikit-learn, TensorFlow, Keras, Transformers
+* Data Analysis & Processing: Pandas, NumPy, Exploratory Data Analysis (EDA)
+* Optimization & Validation: GridSearchCV, Cross-Validation, Regularization, K-Means
+* Developer Tools: Git, GitHub, VS Code, Jupyter Notebook
+
+--------------------------------------------------------------------------------
+KEY PROJECTS
+--------------------------------------------------------------------------------
+1. Text Sentiment Analysis using NLP
+   - Built a Logistic Regression classifier for tweet sentiment prediction.
+   - Implemented text preprocessing (tokenization, stopword removal, lemmatization)
+     and TF-IDF feature extraction.
+   - Technologies: NLP, Python, Scikit-learn, TF-IDF, Logistic Regression.
+
+2. Bengaluru House Price Prediction
+   - Developed regression models (Linear Regression, Lasso, Decision Tree)
+     using GridSearchCV for optimal hyperparameter tuning.
+   - Performed comprehensive feature engineering, location one-hot encoding,
+     and outlier removal on real estate datasets.
+   - Technologies: Data Science, Scikit-learn, GridSearchCV, Pandas, Python.
+
+3. Customer Segmentation
+   - Applied K-Means Clustering combined with the Elbow Method for customer
+     spending behavior analysis.
+   - Extracted actionable marketing insights by profiling demographic and
+     spending patterns into cohesive clusters.
+   - Technologies: Unsupervised Learning, K-Means, Elbow Method, Python, Pandas.
+
+4. Context-Aware QA System
+   - Developed an LLM-based NLP pipeline for extracting and generating accurate
+     answers grounded in provided context documents.
+   - Mitigated model hallucination using context injection and semantic
+     retrieval pipelines.
+   - Technologies: LLMs, NLP, Deep Learning, Python, Transformers.
+
+================================================================================
